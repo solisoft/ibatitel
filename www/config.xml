@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "com.batitel.ibatitel"
+        versionCode="10" 
+        version   = "2.7.0">
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>iBatitel</name>
+
+    <description>
+        batitel app for tablets
+    </description>
+
+    <author href="https://www.batitel.com" email="contact@batitel.com">
+        batitel
+    </author>
+    <preference name="orientation" value="landscape" />
+
+</widget>
